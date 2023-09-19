@@ -28,16 +28,6 @@ Je suis Amadou CISSE, étudiant en Mechatronics et passionné par la programmati
 
 - **TasksMaster**: Une application de gestion de tâches simple et intuitive. [Visitez le site](https://github.com/1Amadou/Application_Original)
 
-## Réalisations et Certifications
-
-- Finaliste de Google Code-In, première personne sélectionnée du Pakistan parmi 4000 étudiants de 77 pays différents.
-  - [Certification](https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing)
-  - [Lettre d'Award](https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing)
-
-- Développement d'une action Google Assistant JavaScript Guru disponible sur 2 milliards de dispositifs dans le monde.
-
-- Certification PWA Web App Developer de SMIT pour le développement d'applications Web PWA.
-
 ## Contactez-moi
 
 - Téléphone : +223 70506314
