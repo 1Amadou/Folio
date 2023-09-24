@@ -129,12 +129,12 @@ softwareSkills: [
     fontAwesomeClassname: "fab fa-aws"
   },
   {
-    skillName: "Ruby on Rails",
-    fontAwesomeClassname: "fab fa-ruby"
-  },
-  {
     skillName: "Heroku",
     fontAwesomeClassname: "fab fa-heroku"
+  },
+  {
+    skillName: "Ruby on Rails",
+    fontAwesomeClassname: "fab fa-ruby"
   },
   {
     skillName: "Vue.js",
@@ -208,7 +208,19 @@ const techStack = {
     {
       Stack: "Programming",
       progressPercentage: "60%"
-    }
+    },
+    {
+      Stack: "French",
+      progressPercentage: "100%"
+    },
+    {
+      Stack: "English",
+      progressPercentage: "50%"
+    },
+    {
+      Stack: "Arabe",
+      progressPercentage: "50%"
+    },
   ],
   displayCodersrank: true // Set true to display codersrank badges section need to changes your username in src/containers/skillProgress/skillProgress.js:17:62, defaults to false
 };
