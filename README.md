@@ -22,7 +22,7 @@ Je suis Amadou CISSE, étudiant en Mechatronics et passionné par la programmati
 ## Éducation
 
 - Bachelor en Mechatronics et Robotics à l'Université des sciences, techniques et technologies de Bamako (en cours)
-- Certificat en Web Engineering Advanced Course (Ruby) de Dive into Code
+- Certificat en Web Engineering Advanced Course (Ruby) de Diveintocode Co., Ltd
 
 ## Projets Importants
 
