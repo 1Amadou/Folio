@@ -24,7 +24,7 @@ Je suis Amadou CISSE, étudiant en Mecatronique et passionné par la programmati
 ## Éducation
 
 - Licence en Mechatronique et Robotique à l'Université des sciences, techniques et technologies de Bamako (en cours)
-- Web Engineering Advanced Course (Ruby)  à Divic Corp (DIVE INTO CODE)
+- Web Engineering Course (Ruby)  à Divic Corp (DIVE INTO CODE).  cliquez : https://drive.google.com/file/d/1GqjYz2AiI3cMZXWVTOqgax1QpjC7ZJNT/view?usp=drive_link
 - AWS re/Start à Orange Digital Center  ODC
 - Atelier de Formation sur les Systèmes Embarqués et Robotiques ( AUF-Agence Universitaire de la Francophonie )
 - Atelier de Formation sur la Gestion de Projet ( AUF-Agence Universitaire de la Francophonie )
