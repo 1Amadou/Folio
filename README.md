@@ -52,7 +52,7 @@ Je suis Amadou CISSE, étudiant en Mecatronique et passionné par la programmati
 - [LinkedIn](https://www.linkedin.com/in/ahmad-ciss%C3%A9-3949b8240/)
 - [GitLab](https://gitlab.com/1Amadou)
 - [Stack Overflow](https://stackoverflow.com/users/22550761/amadou-cisse)
-- Twitter : [https://twitter.com/AmadouCISSE01](https://twitter.com/AmadouCISSE01)
+- [Twitter](https://twitter.com/AmadouCISSE01)
 
 N'hésitez pas à me contacter si vous souhaitez discuter d'un projet ou simplement dire bonjour !
 =======
