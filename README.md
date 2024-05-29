@@ -24,21 +24,21 @@ Je suis Amadou CISSE, étudiant en Mecatronique et passionné par la programmati
 ## Éducation
 
 - Licence en Mechatronique et Robotique à l'Université des sciences, techniques et technologies de Bamako (en cours)
-- Web Engineering Course (Ruby)  à Divic Corp (DIVE INTO CODE).  En savoir plus, cliquez : [https://drive.google.com/file/d/1GqjYz2AiI3cMZXWVTOqgax1QpjC7ZJNT/view?usp=drive_link](https://drive.google.com/file/d/1he8f_dPB5Xwsd86mMeInFtsK2qd6F9AN/view?usp=drive_link)
+- Web Engineering Course (Ruby)  à Divic Corp (DIVE INTO CODE).  [En savoir plus](https://drive.google.com/file/d/1he8f_dPB5Xwsd86mMeInFtsK2qd6F9AN/view?usp=drive_link)
 - AWS re/Start à Orange Digital Center  ODC
 - Atelier de Formation sur les Systèmes Embarqués et Robotiques ( AUF-Agence Universitaire de la Francophonie )
 - Atelier de Formation sur la Gestion de Projet ( AUF-Agence Universitaire de la Francophonie )
   
 ## Certification
 
-- Certification de Développeur FullStack .  Visitez le lien : https://drive.google.com/file/d/1h7MoC8Bms2HubpfL0gvMgu69yT8GQqO7/view?usp=drive_link
+- Certification de Développeur FullStack .  [Visitez le lien](https://drive.google.com/file/d/1h7MoC8Bms2HubpfL0gvMgu69yT8GQqO7/view?usp=drive_link)
 - AWS Certified Cloud Practitioner (en cours)
-- Winter School 2024 (Energie vert) lien : https://drive.google.com/file/d/1_kt4vdHWSaPr0qEKTN0LygSSDJjM0LiE/view?usp=drive_link
+- Winter School 2024 (Energie vert) [En savoir plus](https://drive.google.com/file/d/1_kt4vdHWSaPr0qEKTN0LygSSDJjM0LiE/view?usp=drive_link)
   
 ## Projets Importants
 
 - **TasksMaster**: Une application de gestion de tâches simple et intuitive. [Visitez le site](https://github.com/1Amadou/Application_Original)
-- **Création de la Communauté Scientifique Estudiantine du Mali (CSEM)** : En savoir plus : https://www.facebook.com/permalink.php?story_fbid=pfbid0isYSR7e4yUxkTAsVc1AyGmpyoGh3gDQBSS3FyjdWWgpwBBacx7kLg8L8TqdjYL46l&id=61552986887413 
+- **Création de la Communauté Scientifique Estudiantine du Mali (CSEM)** : [En savoir plus](https://www.facebook.com/permalink.php?story_fbid=pfbid0isYSR7e4yUxkTAsVc1AyGmpyoGh3gDQBSS3FyjdWWgpwBBacx7kLg8L8TqdjYL46l&id=61552986887413) 
 - **Kalanso**: Une plateforme de cour en ligne basés sur le programme national du Mali pour tous les niveaux d'enseignement et des formations professionnelles. [Visitez le site](https://github.com/1Amadou/Kalanso)
 
 ## Contactez-moi
